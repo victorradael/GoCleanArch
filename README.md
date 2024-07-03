@@ -13,6 +13,10 @@ Welcome to GoCleanArch! This project is designed to help you learn and apply the
 - [Contributing](#contributing)
 - [License](#license)
 - [Base projects for refactoring](#base-projects-for-refactoring)
+- [Bibliography and References](#bibliography-and-references)
+    - [Clean Architecture](#clean-architecture)
+    - [Domain-Driven Design](#domain-driven-design-ddd)
+    - [Pratical Material](#practical-material)
 
 ## Introduction
 
@@ -100,3 +104,43 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 - [Api Rest Go (mux)](https://github.com/victorradael/rest_api_go_mux)
 - [Api Rest Go (gin)](https://github.com/victorradael/rest_api_go_gin)
+
+## Bibliography and References
+
+### Clean Architecture
+
+#### Philosophies and Concepts
+
+- **Books**
+  - Robert C. Martin, *Clean Architecture: A Craftsman's Guide to Software Structure and Design*. [Link](https://www.amazon.com/Clean-Architecture-Craftsmans-Software-Structure/dp/0134494164)
+
+  - Leonardo Giordani, *Clean Architecture in Python*. [Link](https://leanpub.com/clean-architectures-in-python)
+
+- **Articles and Blogs**
+  - Robert C. Martin, *The Clean Architecture*. [Link](https://8thlight.com/blog/uncle-bob/2012/08/13/the-clean-architecture.html)
+
+
+- **Videos**
+  - Robert C. Martin, *Clean Architecture with Uncle Bob Martin*. [Link](https://www.youtube.com/watch?v=o_TH-Y78tt4)
+
+### Domain-Driven Design (DDD)
+
+#### Philosophies and Concepts
+
+- **Books**
+  - Eric Evans, *Domain-Driven Design: Tackling Complexity in the Heart of Software*. [Link](https://www.amazon.com/Domain-Driven-Design-Tackling-Complexity-Software/dp/0321125215)
+  - Vaughn Vernon, *Implementing Domain-Driven Design*. [Link](https://www.amazon.com/Implementing-Domain-Driven-Design-Vaughn-Vernon/dp/0321834577)
+
+- **Articles and Blogs**
+  - Eric Evans, *Domain-Driven Design Reference: Definitions and Pattern Summaries*. [Link](https://www.domainlanguage.com/ddd/reference/)
+  - Martin Fowler, *The Anatomy of Domain-Driven Design*. [Link](https://martinfowler.com/bliki/DomainDrivenDesign.html)
+
+- **Videos**
+  - Eric Evans, *DDD Europe 2020 - Eric Evans Keynote*. [Link](https://www.youtube.com/watch?v=am-HXycfalo&list=PLf9p-N3ltMTvfEj8KNtOomc9algcX0WtG)
+
+### Practical Material
+
+- **GitHub Repositories**
+  - *Clean Architecture Template for .NET*. [Link](https://github.com/jasontaylordev/CleanArchitecture)
+  - *Awesome Domain-Driven Design*: Curated list of DDD resources. [Link](https://github.com/heynickc/awesome-ddd)
+
