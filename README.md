@@ -12,6 +12,7 @@ Welcome to GoCleanArch! This project is designed to help you learn and apply the
 - [Usage](#usage)
 - [Contributing](#contributing)
 - [License](#license)
+- [Base projects for refactoring]()
 
 ## Introduction
 
@@ -94,3 +95,8 @@ Contributions are welcome! If you find any issues or have suggestions for improv
 ## License
 
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+
+## Base projects for refactoring
+
+- [Api Rest Go (mux)](https://github.com/victorradael/rest_api_go_mux)
+- [Api Rest Go (gin)](https://github.com/victorradael/rest_api_go_gin)
