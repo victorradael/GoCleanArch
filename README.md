@@ -12,7 +12,7 @@ Welcome to GoCleanArch! This project is designed to help you learn and apply the
 - [Usage](#usage)
 - [Contributing](#contributing)
 - [License](#license)
-- [Base projects for refactoring]()
+- [Base projects for refactoring](#base-projects-for-refactoring)
 
 ## Introduction
 
